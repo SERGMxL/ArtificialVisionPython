@@ -1,4 +1,4 @@
-# ProgramasPOO
+# ArtificialVisionPython
 
 Este repositorio alberga un proyecto de visión artificial desarrollado en Python que hace uso de potentes herramientas de procesamiento de imágenes y visión por computadora. La integración con CMake proporciona una solución robusta para la compilación y configuración del proyecto, permitiendo una fácil gestión de dependencias y una experiencia de desarrollo simplificada.
 
